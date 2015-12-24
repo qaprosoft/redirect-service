@@ -1,0 +1,9 @@
+<html>
+<button style="width:100%;height:100%" onclick="redirectFunction();">URL</button>
+
+<script>
+function redirectFunction() {
+    location.href = "$url";
+}
+</script>
+</html>
